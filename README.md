@@ -12,10 +12,6 @@ This project is a **Restaurant Menu Application**, built using **Vue 3** and **V
 - **CSS:** 
 - **HTML:** 
 
-## Recommended IDE Setup
-- **VSCode** with:
-  - [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (disable Vetur).
-
 ## Project Setup
 1. **Install Dependencies**
    ```bash
