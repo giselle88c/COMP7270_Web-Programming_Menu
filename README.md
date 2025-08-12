@@ -22,9 +22,11 @@ This project is a **Restaurant Menu Application**, built using **Vue 3** and **V
    npm install
    
 2. **Backend**
+   ```bash
    npm start
    localhost:3000
 
 3. **Frontend**
+   ```bash
    npm run dev
    localhost:5173
