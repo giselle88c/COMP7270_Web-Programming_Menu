@@ -1,0 +1,1001 @@
+id,MyName,LikeMovie,Gender,Age,Story,Entertainment,Effect,Cast,Q2_word,district1,district2
+65ddebabfc13ae1d74cd3750,Samson,YES,Female,< 20,2,3,4,5,,NT,HK-YL_Yuen Long
+65ddebabfc13ae1d74cd3751,Hilliary,YES,Male,> 60,1,5,5,3,,HK,HK-CW_Central and Western
+65ddebabfc13ae1d74cd3752,Ned,YES,Female,41-60,2,2,5,3,,KLN,HK-KU_Kwun Tong
+65ddebabfc13ae1d74cd3753,Berkley,YES,Female,21-40,3,1,4,1,,KLN,HK-YT_Yau Tsim Mong
+65ddebabfc13ae1d74cd3754,Antonio,YES,Female,< 20,4,4,4,4,,NT,HK-TM_Tusen Mun
+65ddebabfc13ae1d74cd3755,Von,YES,Female,< 20,5,4,2,2,,KLN,HK-KC_Kowloon City
+65ddebabfc13ae1d74cd3756,Zaria,YES,Male,41-60,1,2,4,4,,HK,HK-WC_Wan Chai
+65ddebabfc13ae1d74cd3757,Tallie,YES,Female,41-60,2,5,5,1,,KLN,HK-WT_Wong Tai Sin
+65ddebabfc13ae1d74cd3758,Concordia,YES,Female,41-60,4,3,4,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebabfc13ae1d74cd3759,Cristobal,NO,Male,21-40,5,3,4,2,,KLN,HK-WT_Wong Tai Sin
+65ddebabfc13ae1d74cd375a,Reese,YES,Female,41-60,5,5,1,3,,HK,HK-WC_Wan Chai
+65ddebabfc13ae1d74cd375b,Culver,YES,Female,21-40,4,4,2,5,,HK,HK-SO_Southern
+65ddebabfc13ae1d74cd375c,Stella,YES,Male,21-40,1,4,5,3,,HK,HK-KI_Kwai Tsing
+65ddebabfc13ae1d74cd375d,Aigneis,YES,Female,21-40,3,4,3,3,,HK,HK-WC_Wan Chai
+65ddebabfc13ae1d74cd375e,Leora,NO,Female,21-40,4,2,4,4,,HK,HK-CW_Central and Western
+65ddebabfc13ae1d74cd375f,Alidia,NO,Male,> 60,4,3,1,1,,NT,HK-ST_Sha Tin
+65ddebabfc13ae1d74cd3760,Darcey,NO,Male,< 20,2,3,1,3,,HK,HK-KI_Kwai Tsing
+65ddebabfc13ae1d74cd3761,Theo,YES,Male,21-40,5,2,2,3,,KLN,HK-SS_Sham Shui Po
+65ddebabfc13ae1d74cd3762,Alexina,YES,Female,41-60,3,3,3,4,,HK,HK-EA_Eastern
+65ddebabfc13ae1d74cd3763,Raphael,YES,Male,< 20,5,3,5,4,,KLN,HK-SS_Sham Shui Po
+65ddebabfc13ae1d74cd3764,Lindon,YES,Male,< 20,5,2,3,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebabfc13ae1d74cd3765,Pearla,YES,Female,< 20,3,4,4,2,,NT,HK-IS_Island
+65ddebabfc13ae1d74cd3766,Terrill,YES,Male,21-40,2,5,4,2,,HK,HK-EA_Eastern
+65ddebabfc13ae1d74cd3767,Mattie,YES,Female,> 60,2,4,1,1,,KLN,HK-KC_Kowloon City
+65ddebabfc13ae1d74cd3768,Nanette,YES,Male,< 20,1,2,2,2,,HK,HK-WC_Wan Chai
+65ddebabfc13ae1d74cd3769,Emylee,YES,Male,21-40,2,3,4,2,,HK,HK-CW_Central and Western
+65ddebabfc13ae1d74cd376a,Emmit,YES,Male,< 20,5,3,3,5,,HK,HK-WC_Wan Chai
+65ddebabfc13ae1d74cd376b,Armand,YES,Male,< 20,5,2,5,2,,KLN,HK-KC_Kowloon City
+65ddebabfc13ae1d74cd376c,Danila,YES,Female,> 60,3,3,3,1,,KLN,HK-YT_Yau Tsim Mong
+65ddebabfc13ae1d74cd376d,Athena,YES,Male,21-40,1,3,3,3,,KLN,HK-KU_Kwun Tong
+65ddebabfc13ae1d74cd376e,Row,YES,Female,< 20,1,1,2,3,,NT,HK-TM_Tusen Mun
+65ddebabfc13ae1d74cd376f,Chris,YES,Female,< 20,5,1,3,4,,HK,HK-EA_Eastern
+65ddebabfc13ae1d74cd3770,Massimiliano,YES,Male,21-40,1,5,4,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebabfc13ae1d74cd3771,Prentiss,YES,Male,21-40,3,4,5,3,,NT,HK-YL_Yuen Long
+65ddebabfc13ae1d74cd3772,Sascha,YES,Male,< 20,3,2,2,2,,NT,HK-TW_Tsun Wan
+65ddebabfc13ae1d74cd3773,Rochella,NO,Male,< 20,1,2,4,2,,HK,HK-KI_Kwai Tsing
+65ddebabfc13ae1d74cd3774,Tyson,YES,Male,21-40,4,1,1,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebabfc13ae1d74cd3775,Gabie,YES,Male,< 20,5,2,3,1,,HK,HK-SO_Southern
+65ddebabfc13ae1d74cd3776,Roi,YES,Female,21-40,3,4,5,4,,HK,HK-EA_Eastern
+65ddebabfc13ae1d74cd3777,Kath,YES,Female,41-60,4,1,4,2,,HK,HK-CW_Central and Western
+65ddebabfc13ae1d74cd3778,Kaine,YES,Male,21-40,3,1,1,5,,KLN,HK-SS_Sham Shui Po
+65ddebabfc13ae1d74cd3779,Emlyn,YES,Female,41-60,1,1,3,5,,KLN,HK-WT_Wong Tai Sin
+65ddebabfc13ae1d74cd377a,Don,YES,Female,21-40,3,5,4,1,,NT,HK-TM_Tusen Mun
+65ddebabfc13ae1d74cd377b,Eugene,YES,Male,21-40,2,4,2,1,,KLN,HK-YT_Yau Tsim Mong
+65ddebabfc13ae1d74cd377c,Ron,YES,Female,< 20,5,3,5,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebabfc13ae1d74cd377d,Blinny,YES,Male,< 20,4,1,3,5,,NT,HK-TM_Tusen Mun
+65ddebabfc13ae1d74cd377e,Janot,NO,Female,41-60,2,4,5,2,,HK,HK-CW_Central and Western
+65ddebabfc13ae1d74cd377f,Ashla,YES,Female,< 20,2,1,3,1,,NT,HK-YL_Yuen Long
+65ddebabfc13ae1d74cd3780,Sabina,YES,Male,> 60,2,2,1,1,,HK,HK-KI_Kwai Tsing
+65ddebabfc13ae1d74cd3781,Loralyn,YES,Male,< 20,3,5,5,4,,NT,HK-YL_Yuen Long
+65ddebabfc13ae1d74cd3782,Ricky,YES,Female,> 60,3,5,5,1,,NT,HK-IS_Island
+65ddebabfc13ae1d74cd3783,Monika,NO,Female,< 20,2,5,3,1,,NT,HK-YL_Yuen Long
+65ddebabfc13ae1d74cd3784,Lucais,NO,Female,21-40,4,4,1,4,,HK,HK-KI_Kwai Tsing
+65ddebabfc13ae1d74cd3785,Maggy,YES,Female,21-40,4,4,3,5,,KLN,HK-WT_Wong Tai Sin
+65ddebabfc13ae1d74cd3786,Jarad,YES,Male,21-40,1,3,5,3,,NT,HK-TW_Tsun Wan
+65ddebabfc13ae1d74cd3787,Stern,NO,Female,21-40,5,3,3,3,,KLN,HK-WT_Wong Tai Sin
+65ddebabfc13ae1d74cd3788,Analise,YES,Female,< 20,4,5,2,5,,HK,HK-SO_Southern
+65ddebabfc13ae1d74cd3789,Valdemar,YES,Female,41-60,5,2,2,2,,NT,HK-ST_Sha Tin
+65ddebabfc13ae1d74cd378a,Portia,YES,Female,> 60,4,4,3,5,,KLN,HK-WT_Wong Tai Sin
+65ddebabfc13ae1d74cd378b,Virgil,YES,Male,41-60,3,5,5,1,,HK,HK-WC_Wan Chai
+65ddebabfc13ae1d74cd378c,Nady,YES,Male,41-60,1,2,4,4,,NT,HK-SK_Sai Kung
+65ddebabfc13ae1d74cd378d,Nonnah,YES,Male,< 20,3,4,5,2,,NT,HK-TW_Tsun Wan
+65ddebabfc13ae1d74cd378e,Roy,YES,Female,< 20,2,2,1,1,,KLN,HK-KC_Kowloon City
+65ddebabfc13ae1d74cd378f,Casi,NO,Male,< 20,2,2,4,1,,NT,HK-ST_Sha Tin
+65ddebabfc13ae1d74cd3790,Kippie,YES,Male,41-60,4,3,3,5,,KLN,HK-SS_Sham Shui Po
+65ddebabfc13ae1d74cd3791,Tulley,YES,Female,> 60,1,5,4,2,,KLN,HK-SS_Sham Shui Po
+65ddebabfc13ae1d74cd3792,Rorie,YES,Female,21-40,1,1,1,4,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3793,Tamiko,YES,Male,21-40,1,1,5,5,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd3794,Cobb,YES,Male,< 20,4,2,3,5,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3795,Verile,YES,Male,< 20,1,1,1,3,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd3796,Lettie,YES,Female,< 20,5,1,2,2,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd3797,Lynn,YES,Male,41-60,1,5,1,3,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3798,Carly,NO,Female,21-40,1,1,4,2,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3799,Nap,YES,Female,< 20,1,2,5,2,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd379a,Alma,NO,Male,41-60,5,1,5,3,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd379b,Joell,YES,Female,< 20,3,1,2,4,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd379c,Stacy,YES,Male,21-40,3,4,1,5,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd379d,Kimberli,YES,Female,21-40,2,3,1,1,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd379e,Miner,YES,Male,21-40,5,4,3,2,,HK,HK-NO_North
+65ddebacfc13ae1d74cd379f,Marylinda,YES,Male,< 20,4,3,5,4,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37a0,Quincey,YES,Female,21-40,2,2,1,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37a1,Jessa,YES,Female,21-40,2,4,5,5,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd37a2,Webb,YES,Female,> 60,5,3,1,3,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd37a3,Daveta,YES,Female,< 20,2,4,5,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37a4,Ella,YES,Female,21-40,2,2,2,2,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd37a5,Constancy,YES,Male,< 20,1,1,5,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd37a6,Elianore,YES,Male,21-40,5,4,2,3,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd37a7,Michaelina,YES,Female,41-60,2,4,1,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd37a8,Vassili,YES,Female,21-40,3,3,4,3,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd37a9,Rozanne,YES,Male,< 20,2,3,2,2,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd37aa,Julina,YES,Male,< 20,5,3,1,1,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37ab,Harri,YES,Female,< 20,3,2,3,3,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd37ac,Herve,YES,Female,21-40,2,4,4,3,,HK,HK-NO_North
+65ddebacfc13ae1d74cd37ad,Benjamin,YES,Female,21-40,5,3,5,2,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd37ae,Thorin,NO,Male,21-40,5,3,3,1,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd37af,Jeddy,YES,Male,21-40,4,4,4,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd37b0,Germain,YES,Male,21-40,5,4,3,5,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd37b1,Bret,YES,Female,21-40,5,4,2,2,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd37b2,Ive,YES,Female,< 20,1,1,3,1,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd37b3,Ernesto,YES,Female,21-40,4,1,4,5,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd37b4,Brucie,YES,Female,21-40,5,1,2,5,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd37b5,Thalia,YES,Male,21-40,3,1,1,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd37b6,Dinnie,YES,Female,21-40,1,1,1,2,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd37b7,Rayner,YES,Male,< 20,1,1,5,3,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd37b8,Sheelagh,YES,Male,< 20,4,3,2,5,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd37b9,Currey,NO,Male,> 60,3,1,5,2,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd37ba,Retha,YES,Female,21-40,5,3,2,3,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd37bb,Egor,YES,Male,41-60,3,5,4,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37bc,Sandro,YES,Female,< 20,3,4,2,3,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd37bd,Roobbie,YES,Female,< 20,4,3,1,3,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd37be,Kenny,YES,Female,21-40,3,4,2,1,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd37bf,Theo,YES,Female,21-40,2,3,4,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd37c0,Skippie,YES,Female,21-40,2,3,1,5,,HK,HK-NO_North
+65ddebacfc13ae1d74cd37c1,Selle,YES,Female,< 20,3,1,4,5,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd37c2,Norman,YES,Female,< 20,3,2,2,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd37c3,Ali,YES,Male,21-40,1,2,1,4,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd37c4,Vasily,YES,Male,< 20,2,5,5,2,,HK,HK-NO_North
+65ddebacfc13ae1d74cd37c5,Orbadiah,NO,Male,< 20,2,1,3,2,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd37c6,Haskel,YES,Male,21-40,2,4,3,3,,HK,HK-NO_North
+65ddebacfc13ae1d74cd37c7,Nicolais,NO,Female,< 20,1,4,1,2,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd37c8,Darelle,YES,Female,21-40,3,5,2,3,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd37c9,Sheilakathryn,YES,Female,21-40,5,5,2,4,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd37ca,Chester,YES,Male,41-60,4,5,4,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd37cb,Myca,YES,Male,> 60,5,5,4,2,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd37cc,Bonita,YES,Male,41-60,2,1,2,5,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd37cd,Jerome,YES,Male,41-60,2,3,1,5,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd37ce,Dimitri,YES,Female,41-60,2,3,3,5,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd37cf,Joachim,NO,Female,> 60,5,2,4,1,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd37d0,Alli,YES,Male,< 20,5,1,4,4,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd37d1,Demetre,NO,Male,21-40,4,1,5,5,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd37d2,Madelina,YES,Male,21-40,4,5,1,2,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37d3,Bone,YES,Female,21-40,3,5,4,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd37d4,Marjory,YES,Male,< 20,2,2,2,5,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd37d5,Sosanna,YES,Female,21-40,5,4,2,3,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd37d6,Lonni,YES,Female,< 20,1,3,2,2,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd37d7,Muffin,YES,Male,21-40,4,5,4,3,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd37d8,Hermia,YES,Male,41-60,5,2,3,2,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd37d9,Hamish,YES,Male,21-40,3,1,5,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37da,Guenna,YES,Male,< 20,2,3,2,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd37db,Taber,YES,Male,21-40,5,3,3,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37dc,Lorry,YES,Male,21-40,1,2,3,4,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd37dd,Ado,YES,Female,> 60,3,3,1,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd37de,Clovis,YES,Female,< 20,3,5,4,4,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37df,Suzi,YES,Female,41-60,3,2,2,3,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd37e0,Jehanna,YES,Male,21-40,1,5,5,1,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd37e1,Aggi,YES,Female,< 20,3,1,1,5,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd37e2,Sullivan,YES,Female,< 20,4,3,5,2,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd37e3,Hugibert,YES,Male,< 20,2,1,1,3,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd37e4,Ilse,YES,Male,21-40,5,2,4,5,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd37e5,Seth,YES,Male,21-40,4,5,4,3,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37e6,Charlie,YES,Female,41-60,5,5,1,5,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd37e7,Mathe,YES,Female,> 60,3,3,5,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd37e8,Titus,YES,Male,< 20,1,2,3,2,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd37e9,Teddie,YES,Female,< 20,4,2,4,3,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd37ea,Rudyard,YES,Male,41-60,2,1,4,1,,HK,HK-NO_North
+65ddebacfc13ae1d74cd37eb,Nial,YES,Male,21-40,3,2,2,2,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd37ec,Rozalin,YES,Female,21-40,5,2,3,3,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd37ed,Julie,YES,Female,< 20,4,2,2,3,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd37ee,Kaylee,YES,Female,< 20,5,4,3,3,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd37ef,Jason,YES,Male,< 20,2,1,5,4,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd37f0,Vania,YES,Female,21-40,4,5,2,3,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd37f1,Gayle,YES,Female,< 20,4,3,5,4,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd37f2,Patricia,YES,Female,< 20,1,4,4,1,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd37f3,Clemmy,YES,Male,41-60,4,5,3,5,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd37f4,Taddeo,YES,Female,21-40,1,2,2,4,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd37f5,Ameline,YES,Male,21-40,2,5,1,2,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd37f6,Denys,NO,Female,21-40,3,1,4,2,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd37f7,Tan,NO,Male,21-40,3,1,2,4,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd37f8,Gleda,YES,Female,> 60,1,2,5,3,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd37f9,Kent,YES,Male,< 20,1,1,2,1,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd37fa,Peg,NO,Male,41-60,5,4,5,3,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd37fb,Halie,YES,Male,> 60,2,4,4,2,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd37fc,Cull,YES,Female,21-40,1,4,4,5,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd37fd,Tybi,YES,Female,< 20,3,1,1,3,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd37fe,Corilla,YES,Male,< 20,4,5,5,3,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd37ff,Vivyan,YES,Male,< 20,3,1,4,1,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3800,Nike,YES,Male,21-40,4,3,4,3,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3801,Delly,YES,Female,21-40,2,2,5,3,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd3802,Sol,YES,Male,< 20,4,4,2,5,,HK,HK-NO_North
+65ddebacfc13ae1d74cd3803,Kariotta,YES,Female,41-60,1,3,3,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd3804,Berkeley,YES,Male,41-60,1,5,2,1,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd3805,Florence,YES,Female,21-40,5,5,3,1,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3806,Pooh,NO,Male,21-40,1,4,4,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3807,Horton,YES,Female,41-60,3,2,5,3,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3808,Darbie,YES,Female,41-60,3,5,1,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd3809,Darrell,NO,Male,21-40,2,3,3,2,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd380a,Petronille,YES,Female,< 20,4,1,1,2,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd380b,Rebeka,NO,Female,41-60,5,5,2,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd380c,Emiline,YES,Male,41-60,1,1,2,1,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd380d,Darby,NO,Male,< 20,1,3,2,4,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd380e,Tab,YES,Female,21-40,1,5,5,4,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd380f,Adel,YES,Male,21-40,1,4,3,5,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd3810,Rafaellle,NO,Male,21-40,5,3,3,5,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd3811,Myer,YES,Female,< 20,2,5,4,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3812,Kane,YES,Male,41-60,2,2,4,2,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd3813,Whit,YES,Male,21-40,1,1,3,2,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3814,Cookie,YES,Female,< 20,1,2,3,4,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd3815,Towney,YES,Female,21-40,5,5,1,4,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3816,Cortney,YES,Male,21-40,3,1,1,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd3817,Reeta,YES,Male,21-40,2,1,5,5,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3818,Nickey,YES,Female,21-40,1,4,4,4,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3819,Goraud,YES,Male,21-40,4,4,3,5,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd381a,Nina,YES,Male,< 20,5,1,5,3,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd381b,Redford,NO,Female,41-60,3,4,5,4,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd381c,Dorisa,NO,Female,< 20,1,5,5,3,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd381d,Cam,YES,Female,< 20,4,4,5,1,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd381e,Norina,YES,Female,> 60,4,4,1,2,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd381f,Ludovico,NO,Female,< 20,2,4,5,4,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3820,Kurt,YES,Female,< 20,1,2,1,3,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd3821,Teodoro,YES,Male,21-40,5,5,2,2,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3822,Jessie,YES,Male,< 20,5,3,3,3,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd3823,Wendye,YES,Male,< 20,4,5,3,1,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd3824,Adair,YES,Female,< 20,5,3,5,1,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd3825,Yoshi,YES,Male,41-60,5,3,2,5,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd3826,Robers,YES,Female,< 20,2,5,4,2,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd3827,Lanette,YES,Female,21-40,2,2,1,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd3828,Dee dee,YES,Female,21-40,4,4,2,3,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd3829,Guinna,YES,Male,> 60,4,4,1,4,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd382a,Addi,YES,Female,< 20,3,5,1,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd382b,Kerrie,YES,Male,21-40,4,2,4,3,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd382c,Jefferson,YES,Male,> 60,1,3,5,5,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd382d,Catlaina,NO,Female,> 60,2,5,4,3,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd382e,Mellicent,YES,Female,< 20,3,5,4,2,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd382f,Gerardo,YES,Female,< 20,2,5,2,5,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd3830,Galven,YES,Female,< 20,1,4,1,5,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3831,Alvin,NO,Female,21-40,4,2,5,2,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3832,Monica,YES,Male,> 60,2,5,4,4,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3833,Pete,YES,Male,21-40,2,1,1,3,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd3834,Conrad,YES,Male,< 20,4,4,3,3,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3835,Irene,YES,Male,< 20,3,2,4,4,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd3836,Deane,YES,Female,< 20,4,5,2,3,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd3837,Charin,YES,Male,< 20,1,5,4,3,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3838,Rodrigo,YES,Female,> 60,1,3,2,3,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3839,Emmalee,NO,Female,41-60,3,5,1,4,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd383a,Wendi,YES,Female,< 20,2,4,3,2,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd383b,Mathilda,YES,Male,< 20,3,4,5,3,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd383c,Letta,YES,Female,21-40,5,3,4,4,,HK,HK-NO_North
+65ddebacfc13ae1d74cd383d,Roby,YES,Male,> 60,2,4,3,4,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd383e,Yasmin,YES,Female,> 60,4,2,5,4,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd383f,Alain,YES,Female,41-60,3,1,1,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd3840,Pooh,YES,Female,21-40,1,5,5,3,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3841,Mitzi,NO,Male,< 20,3,3,4,4,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3842,Appolonia,YES,Male,21-40,3,1,2,3,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd3843,Maria,YES,Female,< 20,5,3,1,5,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3844,Rodolfo,YES,Female,< 20,5,1,5,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd3845,Osborne,YES,Male,< 20,4,3,3,2,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd3846,Abraham,NO,Female,41-60,4,3,1,4,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3847,Pincas,YES,Male,21-40,4,5,5,3,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd3848,Charley,YES,Male,> 60,1,3,1,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd3849,Oliver,YES,Male,< 20,3,2,4,3,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd384a,Garwin,YES,Male,< 20,1,3,4,4,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd384b,Pattin,YES,Female,< 20,2,3,1,4,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd384c,Filberte,YES,Female,< 20,2,3,4,3,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd384d,Benny,YES,Female,21-40,1,3,1,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd384e,Britni,NO,Female,< 20,2,3,4,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd384f,Ofilia,YES,Male,< 20,5,2,2,1,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3850,Mimi,YES,Male,41-60,2,3,1,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd3851,Abe,YES,Male,< 20,3,1,1,3,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3852,Randi,YES,Female,< 20,3,1,4,4,,HK,HK-NO_North
+65ddebacfc13ae1d74cd3853,De witt,YES,Male,< 20,5,4,3,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd3854,Richy,YES,Female,21-40,5,4,4,4,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd3855,Devinne,YES,Female,> 60,5,1,3,5,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3856,Pru,YES,Female,< 20,3,3,2,1,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd3857,Dulcea,YES,Male,41-60,5,5,2,2,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd3858,Mildrid,YES,Male,< 20,4,5,1,2,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3859,Mauricio,YES,Male,21-40,2,1,4,4,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd385a,Mandie,YES,Male,< 20,3,3,5,2,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd385b,Tasia,YES,Female,21-40,4,1,3,5,,HK,HK-NO_North
+65ddebacfc13ae1d74cd385c,Heriberto,YES,Male,21-40,4,4,1,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd385d,Andreas,YES,Female,21-40,2,4,3,4,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd385e,Jessie,YES,Male,< 20,4,3,3,5,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd385f,Tasha,YES,Male,< 20,2,5,3,3,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd3860,Tamqrah,YES,Male,21-40,1,5,3,4,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3861,Irving,YES,Male,< 20,2,1,5,3,,HK,HK-NO_North
+65ddebacfc13ae1d74cd3862,Doe,YES,Female,21-40,1,2,2,3,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd3863,Hill,YES,Male,< 20,2,2,4,1,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3864,Marylou,YES,Male,< 20,3,3,4,1,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd3865,Tim,NO,Male,41-60,4,3,5,3,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd3866,Hedvige,YES,Male,< 20,2,5,4,4,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd3867,Cathrine,YES,Male,21-40,4,2,2,3,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd3868,Sherline,YES,Female,< 20,2,5,5,3,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3869,Claudette,YES,Female,21-40,5,4,3,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd386a,Latia,NO,Male,21-40,3,3,4,3,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd386b,Amalea,YES,Male,< 20,1,4,4,3,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd386c,Barrie,YES,Female,< 20,4,2,4,5,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd386d,Herby,YES,Female,< 20,3,5,4,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd386e,Tuckie,YES,Female,< 20,3,4,2,2,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd386f,Jeanne,YES,Female,> 60,3,1,5,1,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3870,Bendix,NO,Female,< 20,2,3,5,3,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd3871,Marlo,YES,Male,< 20,1,5,1,2,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd3872,Niko,YES,Male,< 20,4,4,2,3,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd3873,Dorotea,YES,Male,21-40,4,4,5,3,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd3874,Pyotr,YES,Male,< 20,3,2,3,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd3875,Stacey,YES,Male,21-40,5,1,5,2,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd3876,Farley,YES,Female,< 20,2,2,3,2,,HK,HK-NO_North
+65ddebacfc13ae1d74cd3877,Trent,YES,Female,41-60,1,5,4,5,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3878,Polly,YES,Female,> 60,4,5,3,4,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3879,Raphaela,YES,Female,21-40,1,4,2,3,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd387a,Toddie,YES,Female,< 20,3,5,1,3,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd387b,Andra,YES,Male,< 20,1,2,4,5,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd387c,Alvis,YES,Female,< 20,2,4,4,2,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd387d,Ginevra,YES,Female,21-40,2,5,3,3,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd387e,Binnie,NO,Male,> 60,3,4,3,4,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd387f,Horatius,YES,Female,> 60,2,2,1,1,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3880,Ted,YES,Male,41-60,4,2,2,2,,HK,HK-NO_North
+65ddebacfc13ae1d74cd3881,Tami,YES,Female,21-40,3,2,1,3,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd3882,Marcelia,YES,Female,< 20,1,3,3,2,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd3883,Yasmin,YES,Male,21-40,5,3,5,3,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd3884,Brien,YES,Male,21-40,2,2,5,3,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd3885,Udell,YES,Male,> 60,5,4,4,1,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd3886,Dre,YES,Female,41-60,3,4,3,2,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd3887,Gwendolyn,YES,Male,21-40,3,5,1,2,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3888,Maible,YES,Male,41-60,1,1,2,2,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3889,Den,YES,Male,< 20,2,4,3,1,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd388a,Bethanne,YES,Female,41-60,2,1,1,3,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd388b,Naomi,YES,Male,21-40,2,4,4,4,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd388c,Drud,YES,Female,< 20,2,3,2,3,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd388d,Humphrey,YES,Female,< 20,1,4,5,4,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd388e,Herve,YES,Female,< 20,3,2,5,1,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd388f,Reinaldo,YES,Male,< 20,5,3,5,3,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3890,Haskell,NO,Male,< 20,4,5,3,2,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd3891,Leicester,YES,Female,< 20,2,3,5,5,,HK,HK-NO_North
+65ddebacfc13ae1d74cd3892,Michell,YES,Female,41-60,3,2,3,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd3893,Natal,YES,Female,< 20,1,4,2,4,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd3894,Sherwood,YES,Female,> 60,5,5,5,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd3895,Garfield,YES,Male,21-40,1,5,2,1,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3896,Mavra,YES,Female,41-60,4,2,1,1,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3897,Gordan,YES,Male,< 20,3,1,1,4,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd3898,Eugine,YES,Male,< 20,1,4,5,4,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3899,Lenka,NO,Female,> 60,4,1,3,3,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd389a,Avivah,YES,Male,41-60,3,2,5,3,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd389b,Berny,YES,Female,21-40,5,3,3,2,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd389c,Harris,YES,Female,< 20,1,5,2,2,,HK,HK-NO_North
+65ddebacfc13ae1d74cd389d,Kary,YES,Female,> 60,5,5,4,1,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd389e,Finlay,YES,Male,> 60,3,4,1,3,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd389f,Reinold,YES,Male,< 20,4,2,2,2,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd38a0,Hildy,YES,Male,41-60,5,3,3,1,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd38a1,Constantino,NO,Male,< 20,2,1,5,4,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd38a2,Keslie,NO,Male,< 20,4,1,4,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd38a3,Cher,YES,Female,< 20,4,4,1,1,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd38a4,Lisette,YES,Female,> 60,3,4,5,3,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd38a5,Cart,YES,Male,21-40,2,3,5,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd38a6,Harmonie,YES,Female,< 20,1,3,3,1,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd38a7,Claiborne,YES,Female,21-40,5,5,4,5,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd38a8,Lethia,YES,Female,21-40,2,4,4,1,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd38a9,Creight,YES,Male,41-60,3,1,3,1,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd38aa,Connor,YES,Female,< 20,2,4,4,3,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd38ab,Drugi,YES,Female,< 20,1,5,4,5,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd38ac,Meta,YES,Male,21-40,5,1,3,4,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd38ad,Noelle,YES,Female,21-40,4,3,4,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd38ae,Case,NO,Female,> 60,2,3,3,1,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd38af,Etienne,YES,Male,21-40,5,3,3,3,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd38b0,Kesley,YES,Male,21-40,3,2,1,4,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd38b1,Scotti,YES,Male,21-40,5,4,1,2,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd38b2,Deina,YES,Female,< 20,2,4,4,2,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd38b3,Kendra,YES,Female,< 20,4,3,3,1,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd38b4,Hastings,YES,Female,< 20,4,4,4,4,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd38b5,Courtenay,NO,Male,41-60,2,5,1,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd38b6,Igor,YES,Male,21-40,1,2,4,4,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd38b7,Margarete,YES,Male,21-40,1,3,1,4,,HK,HK-NO_North
+65ddebacfc13ae1d74cd38b8,Nan,YES,Female,41-60,4,2,4,1,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd38b9,Kerby,YES,Female,21-40,4,3,5,3,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38ba,Jodie,YES,Male,21-40,3,3,3,1,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38bb,Allin,YES,Male,< 20,5,1,1,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd38bc,Cassie,NO,Female,21-40,3,2,5,5,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd38bd,Fergus,YES,Male,21-40,2,4,5,5,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd38be,Paola,YES,Male,< 20,3,2,3,1,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd38bf,Cash,YES,Male,21-40,3,2,5,4,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd38c0,Davis,YES,Male,< 20,4,4,5,4,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38c1,Dian,YES,Male,< 20,5,3,5,2,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd38c2,Bertina,NO,Male,21-40,3,2,4,5,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd38c3,Elisabeth,YES,Male,> 60,5,2,1,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd38c4,Stephan,YES,Male,> 60,3,4,1,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd38c5,Cori,NO,Male,> 60,3,3,3,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38c6,Taylor,YES,Female,21-40,5,3,3,3,,HK,HK-NO_North
+65ddebacfc13ae1d74cd38c7,Franciskus,YES,Female,< 20,4,5,5,5,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd38c8,Heddi,NO,Female,> 60,5,5,1,1,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd38c9,Maggy,YES,Male,< 20,5,2,5,2,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd38ca,Lexi,YES,Female,21-40,2,3,5,1,,HK,HK-NO_North
+65ddebacfc13ae1d74cd38cb,Kristine,YES,Female,< 20,3,2,4,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38cc,Kaitlynn,YES,Female,< 20,1,4,4,5,,HK,HK-NO_North
+65ddebacfc13ae1d74cd38cd,Lucie,YES,Male,21-40,5,1,3,5,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd38ce,Noelyn,YES,Female,41-60,2,5,2,1,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd38cf,Kain,YES,Female,< 20,2,5,2,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38d0,Veronica,NO,Female,< 20,5,5,4,4,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd38d1,Leanor,YES,Male,41-60,2,5,3,3,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38d2,Heinrik,YES,Male,21-40,3,2,5,4,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd38d3,Egon,YES,Male,< 20,2,4,3,2,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd38d4,Merle,YES,Female,< 20,4,2,2,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd38d5,Norris,YES,Female,< 20,5,2,2,5,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38d6,Alvina,YES,Male,< 20,4,3,3,5,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd38d7,Deonne,YES,Female,> 60,2,5,4,2,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd38d8,Verene,YES,Female,< 20,3,4,4,4,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd38d9,Andrea,YES,Male,21-40,1,1,4,4,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd38da,Sadye,NO,Male,< 20,4,1,4,5,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd38db,Heinrik,YES,Male,< 20,5,2,2,1,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd38dc,Briny,YES,Male,21-40,5,1,2,2,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38dd,Giavani,YES,Male,< 20,3,4,1,1,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd38de,Max,YES,Male,41-60,5,3,2,3,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd38df,Kearney,NO,Male,> 60,1,2,5,1,,HK,HK-NO_North
+65ddebacfc13ae1d74cd38e0,Freda,YES,Female,< 20,2,3,4,3,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd38e1,Ardis,YES,Female,< 20,2,3,2,2,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd38e2,Oralle,YES,Female,> 60,2,2,1,4,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd38e3,Alissa,YES,Female,> 60,5,2,3,3,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd38e4,Bearnard,YES,Female,< 20,2,4,5,5,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd38e5,Dora,YES,Female,< 20,3,2,5,2,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd38e6,Iolanthe,YES,Female,21-40,1,3,2,2,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd38e7,Melvin,YES,Female,< 20,3,2,1,1,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd38e8,Vilma,YES,Male,41-60,1,4,1,3,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd38e9,Karalynn,YES,Female,> 60,5,3,1,5,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd38ea,Filmer,YES,Female,< 20,5,2,3,3,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd38eb,Myca,YES,Female,21-40,4,2,4,5,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd38ec,Valentine,YES,Male,21-40,5,3,2,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd38ed,Rubetta,YES,Male,< 20,2,5,4,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd38ee,Donetta,YES,Male,21-40,1,5,4,5,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd38ef,Inigo,YES,Female,< 20,3,2,3,4,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd38f0,Dian,YES,Male,21-40,2,1,5,4,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38f1,Berk,YES,Female,> 60,1,5,1,4,,HK,HK-NO_North
+65ddebacfc13ae1d74cd38f2,Doro,NO,Male,> 60,1,4,1,5,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd38f3,Francklyn,YES,Male,41-60,5,5,1,4,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd38f4,Rurik,NO,Female,41-60,3,3,5,5,,HK,HK-NO_North
+65ddebacfc13ae1d74cd38f5,Jada,YES,Female,41-60,3,2,5,5,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd38f6,Abbey,NO,Male,41-60,5,2,4,5,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd38f7,Aymer,YES,Female,21-40,1,2,4,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd38f8,Mirelle,YES,Male,21-40,4,4,1,5,,HK,HK-NO_North
+65ddebacfc13ae1d74cd38f9,Kynthia,YES,Female,< 20,2,1,1,5,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd38fa,Vitoria,YES,Male,< 20,5,2,5,3,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd38fb,Dyna,YES,Male,< 20,1,5,4,4,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd38fc,Jane,YES,Female,41-60,4,3,2,1,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd38fd,Fitzgerald,YES,Male,< 20,1,2,5,2,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd38fe,Dav,YES,Male,< 20,1,2,5,1,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd38ff,Thor,NO,Male,< 20,2,4,1,1,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd3900,Phillis,NO,Female,21-40,4,5,1,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd3901,Mayor,YES,Female,< 20,3,2,5,2,,NT,HK-IS_Island
+65ddebacfc13ae1d74cd3902,Shawn,YES,Male,< 20,3,3,2,2,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3903,Joyce,YES,Male,21-40,1,1,4,5,,KLN,HK-WT_Wong Tai Sin
+65ddebacfc13ae1d74cd3904,Adolphus,YES,Female,21-40,4,5,1,2,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3905,Jorey,YES,Male,21-40,3,1,5,4,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd3906,Maggy,YES,Male,21-40,1,5,4,3,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3907,Stephana,YES,Female,< 20,3,2,2,2,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd3908,Andrej,YES,Female,> 60,2,5,5,3,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd3909,Denni,NO,Male,41-60,4,5,4,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd390a,Barn,NO,Female,21-40,5,5,3,1,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd390b,Guglielmo,YES,Female,> 60,2,1,2,3,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd390c,Padget,YES,Female,< 20,1,4,4,1,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd390d,Gianni,YES,Male,> 60,3,3,4,3,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd390e,Mitchell,YES,Female,< 20,4,4,4,3,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd390f,Mickie,YES,Female,21-40,4,1,4,2,,KLN,HK-KC_Kowloon City
+65ddebacfc13ae1d74cd3910,Emery,YES,Male,41-60,3,2,2,5,,HK,HK-EA_Eastern
+65ddebacfc13ae1d74cd3911,Basia,NO,Female,41-60,2,3,1,3,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3912,Diandra,YES,Female,21-40,4,4,3,4,,HK,HK-CW_Central and Western
+65ddebacfc13ae1d74cd3913,Marthena,NO,Female,< 20,1,1,2,3,,HK,HK-SO_Southern
+65ddebacfc13ae1d74cd3914,Kory,YES,Male,< 20,4,2,2,2,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3915,Willey,NO,Female,< 20,4,1,2,2,,HK,HK-NO_North
+65ddebacfc13ae1d74cd3916,Maryl,YES,Female,41-60,1,4,4,5,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd3917,Cedric,YES,Female,> 60,5,5,2,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd3918,Angelika,YES,Female,< 20,4,1,4,1,,HK,HK-NO_North
+65ddebacfc13ae1d74cd3919,Orion,YES,Male,< 20,3,3,3,2,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd391a,Ross,YES,Male,21-40,2,1,1,5,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd391b,Sula,YES,Female,41-60,2,1,2,2,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd391c,Shaun,YES,Male,< 20,3,3,5,5,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd391d,Opaline,YES,Male,< 20,2,5,3,2,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd391e,Kayley,YES,Female,< 20,1,5,4,5,,HK,HK-KI_Kwai Tsing
+65ddebacfc13ae1d74cd391f,Isahella,YES,Male,41-60,5,2,4,4,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd3920,Rica,YES,Male,41-60,4,5,3,2,,NT,HK-SK_Sai Kung
+65ddebacfc13ae1d74cd3921,Garv,YES,Male,< 20,5,1,5,3,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd3922,Brandy,YES,Female,< 20,3,1,5,4,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd3923,Zea,YES,Female,< 20,5,4,3,2,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd3924,Shara,YES,Male,< 20,1,4,5,3,,HK,HK-WC_Wan Chai
+65ddebacfc13ae1d74cd3925,Francisco,YES,Male,< 20,1,3,3,3,,KLN,HK-KU_Kwun Tong
+65ddebacfc13ae1d74cd3926,Kaitlin,YES,Male,21-40,3,4,2,2,,NT,HK-ST_Sha Tin
+65ddebacfc13ae1d74cd3927,Roxie,YES,Male,< 20,4,1,3,3,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd3928,Berenice,YES,Female,41-60,4,3,3,1,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3929,Boycie,YES,Female,21-40,5,5,2,5,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd392a,Stormie,YES,Male,21-40,5,1,2,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd392b,Jackelyn,YES,Male,41-60,1,5,2,3,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd392c,Basilio,YES,Male,< 20,5,4,2,5,,NT,HK-TM_Tusen Mun
+65ddebacfc13ae1d74cd392d,Lee,YES,Male,21-40,5,1,3,3,,NT,HK-TP_Tai Po
+65ddebacfc13ae1d74cd392e,Paolo,YES,Male,21-40,4,3,4,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebacfc13ae1d74cd392f,Katee,YES,Female,> 60,1,4,4,1,,KLN,HK-SS_Sham Shui Po
+65ddebacfc13ae1d74cd3930,Gert,YES,Male,< 20,1,2,2,2,,HK,HK-NO_North
+65ddebacfc13ae1d74cd3931,Trefor,YES,Male,41-60,1,3,1,1,,NT,HK-YL_Yuen Long
+65ddebacfc13ae1d74cd3932,Christoforo,NO,Male,21-40,4,2,4,3,,NT,HK-TW_Tsun Wan
+65ddebacfc13ae1d74cd3933,Danette,YES,Male,< 20,4,2,1,2,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3934,Kerstin,YES,Female,< 20,3,1,5,4,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3935,Nikolai,YES,Male,41-60,2,5,3,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3936,Harold,NO,Male,21-40,1,2,2,2,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3937,Jacqueline,YES,Female,< 20,1,4,4,5,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3938,Paton,YES,Female,21-40,5,5,5,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3939,Earlie,YES,Male,< 20,5,5,3,4,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd393a,Mechelle,NO,Male,> 60,3,4,4,1,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd393b,Elyssa,YES,Female,< 20,2,1,5,4,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd393c,Morganica,YES,Female,> 60,5,4,5,2,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd393d,Wyn,YES,Male,> 60,1,3,3,5,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd393e,Ring,YES,Female,21-40,4,4,3,3,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd393f,Yoshi,YES,Male,21-40,2,2,5,2,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3940,Wit,YES,Female,< 20,5,5,1,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3941,Gwendolen,YES,Female,21-40,5,1,3,4,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3942,Lindsay,YES,Male,< 20,1,4,4,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3943,Cecilla,YES,Male,41-60,4,3,3,2,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3944,Lisette,YES,Male,< 20,5,5,5,4,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3945,Edith,YES,Female,21-40,3,1,3,3,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3946,Clarie,YES,Male,21-40,3,2,5,1,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3947,Tannie,YES,Female,< 20,2,4,4,1,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3948,Berky,YES,Female,21-40,4,2,1,2,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3949,Iseabal,YES,Male,21-40,3,2,2,5,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd394a,Dev,YES,Male,< 20,4,3,5,1,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd394b,Paddy,YES,Male,< 20,3,3,2,5,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd394c,Georgiana,YES,Male,21-40,3,3,1,4,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd394d,Britt,NO,Male,21-40,3,1,2,2,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd394e,Brendan,YES,Female,21-40,3,3,2,3,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd394f,Fey,YES,Female,< 20,3,5,3,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3950,Christiana,YES,Male,21-40,2,3,3,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3951,Stephannie,YES,Female,21-40,1,3,1,2,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3952,Coral,NO,Female,41-60,2,5,1,2,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3953,Franny,YES,Male,41-60,4,3,4,5,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3954,Gottfried,YES,Male,< 20,4,1,5,1,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3955,Maddie,YES,Female,< 20,5,5,5,4,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3956,Oren,NO,Male,41-60,1,4,4,2,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3957,Myrtia,YES,Female,41-60,2,3,5,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3958,Alfreda,YES,Male,< 20,4,4,2,3,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3959,Karna,YES,Female,21-40,4,2,4,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd395a,Pris,YES,Male,21-40,1,4,1,3,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd395b,Melli,YES,Female,< 20,2,3,5,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd395c,Rik,YES,Male,< 20,1,1,5,5,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd395d,Vania,NO,Male,< 20,4,5,5,4,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd395e,Lemar,YES,Female,> 60,3,1,3,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd395f,Pris,YES,Male,< 20,1,4,2,3,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3960,Luther,YES,Male,< 20,1,3,1,4,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3961,Tabbie,YES,Female,21-40,2,2,1,5,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3962,Jessa,YES,Male,< 20,5,5,2,3,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3963,Rhona,YES,Female,21-40,1,2,4,4,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3964,Jacklin,YES,Female,< 20,5,2,4,3,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3965,Allan,NO,Male,21-40,3,5,1,4,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3966,Kennith,YES,Female,21-40,5,2,1,4,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3967,Joel,YES,Female,< 20,2,4,5,2,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3968,Reese,YES,Female,21-40,5,5,5,5,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3969,Myer,YES,Male,< 20,2,3,4,5,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd396a,Olia,YES,Male,< 20,4,1,4,1,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd396b,Brooke,NO,Male,< 20,3,3,4,1,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd396c,Lars,YES,Female,< 20,5,1,1,3,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd396d,Dov,YES,Male,41-60,3,2,4,1,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd396e,Inness,YES,Female,41-60,5,4,2,2,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd396f,Stavro,YES,Male,< 20,3,5,1,3,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3970,Kesley,YES,Female,< 20,1,2,3,1,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3971,Taddeusz,YES,Female,21-40,2,4,5,4,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3972,Ninnetta,YES,Female,< 20,2,5,5,2,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3973,Archaimbaud,YES,Female,< 20,2,5,1,3,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3974,Virge,YES,Female,41-60,4,2,2,4,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3975,Arney,NO,Male,> 60,4,2,2,2,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3976,Garrek,YES,Female,< 20,4,5,1,1,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3977,Adriana,YES,Female,41-60,3,4,1,3,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3978,Zelma,YES,Male,< 20,4,4,3,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3979,Annemarie,YES,Male,21-40,5,4,3,1,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd397a,Reuben,YES,Male,41-60,4,1,3,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd397b,Elberta,YES,Male,41-60,2,1,2,3,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd397c,Lamar,YES,Male,< 20,3,4,1,5,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd397d,Gates,YES,Female,< 20,3,4,3,5,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd397e,Sol,YES,Male,< 20,5,4,3,4,,HK,HK-NO_North
+65ddebadfc13ae1d74cd397f,Olga,YES,Female,21-40,3,3,1,4,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3980,Thurston,YES,Male,< 20,1,4,2,4,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3981,Vernon,YES,Female,< 20,1,5,1,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3982,Kirstyn,YES,Male,21-40,5,2,5,4,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3983,Dominica,YES,Male,21-40,5,5,2,1,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3984,Barbi,YES,Female,< 20,1,5,5,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3985,Gradeigh,YES,Male,> 60,4,3,1,4,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3986,Major,YES,Male,21-40,3,1,1,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3987,Ninette,YES,Female,< 20,3,4,5,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3988,Haleigh,YES,Male,< 20,1,4,1,3,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3989,Joceline,YES,Male,41-60,1,1,2,3,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd398a,Astra,YES,Male,21-40,4,2,4,3,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd398b,Esmeralda,YES,Female,21-40,3,4,5,2,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd398c,Solomon,YES,Male,> 60,3,5,4,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd398d,Amble,YES,Female,41-60,4,2,1,1,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd398e,Dennis,YES,Female,41-60,2,4,4,5,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd398f,Barry,YES,Female,41-60,5,3,3,3,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3990,Bealle,YES,Male,21-40,1,3,1,5,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3991,Kata,YES,Male,21-40,1,3,3,2,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3992,Fabian,YES,Male,< 20,5,5,2,3,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3993,Ricky,YES,Male,21-40,4,5,5,1,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3994,Daloris,YES,Male,21-40,1,4,5,1,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3995,Bailie,YES,Male,< 20,2,2,5,5,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3996,Agathe,YES,Male,< 20,1,4,5,5,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3997,Brad,YES,Female,< 20,2,2,2,1,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3998,Enos,YES,Female,< 20,4,5,4,5,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3999,Dorie,YES,Female,41-60,3,5,3,5,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd399a,Sybila,NO,Female,21-40,1,5,4,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd399b,Rory,YES,Female,21-40,3,3,4,1,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd399c,Jeannette,YES,Male,< 20,5,3,3,1,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd399d,Cayla,YES,Female,< 20,5,1,2,4,,HK,HK-NO_North
+65ddebadfc13ae1d74cd399e,Calida,YES,Male,< 20,3,4,4,3,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd399f,Lonni,YES,Male,21-40,3,5,5,2,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd39a0,Jimmy,NO,Female,21-40,1,3,4,4,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39a1,Marcile,YES,Female,41-60,1,5,4,1,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd39a2,Armin,YES,Female,< 20,1,5,2,2,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd39a3,Rice,YES,Female,< 20,1,1,1,2,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd39a4,Danika,YES,Male,< 20,1,1,5,5,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd39a5,Garik,YES,Female,41-60,4,3,5,2,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd39a6,Luella,NO,Male,< 20,5,4,3,4,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd39a7,Caldwell,YES,Female,< 20,1,3,4,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd39a8,Cyrille,YES,Male,< 20,4,3,3,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39a9,Normy,YES,Male,41-60,5,1,5,3,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39aa,Chadwick,YES,Male,> 60,4,2,1,2,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd39ab,Agosto,YES,Male,21-40,3,5,4,1,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd39ac,Luz,YES,Male,< 20,2,1,5,4,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd39ad,Em,YES,Female,< 20,1,5,1,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39ae,Clemens,YES,Female,21-40,4,4,5,3,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd39af,Rosy,YES,Female,> 60,4,4,2,5,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd39b0,Erin,YES,Female,< 20,2,1,1,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd39b1,Ailbert,YES,Male,21-40,4,3,3,2,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd39b2,Ginevra,YES,Male,< 20,3,1,1,3,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd39b3,Faydra,YES,Male,21-40,3,1,2,5,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd39b4,Gale,NO,Female,41-60,5,4,5,4,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd39b5,Margaretha,YES,Male,< 20,3,3,3,4,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd39b6,Barby,YES,Female,> 60,2,3,5,2,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd39b7,Tracey,YES,Female,41-60,3,3,5,1,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd39b8,Eleen,YES,Male,> 60,4,2,4,3,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd39b9,Dolorita,YES,Female,< 20,2,4,3,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39ba,Omar,YES,Male,< 20,5,1,4,3,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd39bb,Brose,YES,Male,< 20,2,2,1,1,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd39bc,Winny,YES,Male,41-60,1,5,1,5,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd39bd,Frederica,YES,Female,21-40,5,1,3,2,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd39be,Valerie,YES,Male,21-40,3,1,1,2,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd39bf,Odette,YES,Female,21-40,4,5,4,2,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd39c0,Nertie,YES,Male,< 20,4,5,3,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd39c1,Jayne,YES,Male,21-40,2,5,3,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd39c2,Willette,YES,Male,41-60,5,4,1,3,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd39c3,Anselm,NO,Male,< 20,4,3,4,3,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd39c4,Julie,YES,Male,> 60,3,1,3,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd39c5,Melitta,YES,Male,21-40,4,3,4,5,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd39c6,Aldo,YES,Female,21-40,1,3,2,5,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd39c7,Veriee,YES,Female,< 20,1,3,2,5,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd39c8,Guilbert,YES,Female,> 60,5,4,4,4,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd39c9,Roxanne,YES,Male,< 20,3,5,4,5,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd39ca,Keelia,YES,Male,41-60,4,3,5,2,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd39cb,Freddi,YES,Male,< 20,4,4,5,2,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd39cc,Jasun,NO,Male,< 20,2,4,5,5,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd39cd,Ramon,YES,Female,< 20,2,1,5,5,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd39ce,Nananne,YES,Male,21-40,5,1,2,4,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd39cf,Alphard,YES,Female,41-60,4,1,2,1,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd39d0,Noby,YES,Female,41-60,1,2,1,4,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd39d1,Rosalinda,YES,Male,< 20,3,1,5,1,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd39d2,Kelby,YES,Female,< 20,2,5,1,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39d3,Cilka,YES,Female,< 20,2,2,3,1,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd39d4,Seth,YES,Male,21-40,1,4,3,4,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd39d5,Onfre,YES,Female,< 20,1,4,2,3,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd39d6,Garland,YES,Female,41-60,3,3,3,4,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd39d7,Crosby,YES,Male,< 20,5,1,3,5,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd39d8,Rivy,YES,Male,21-40,2,4,3,1,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd39d9,Noreen,NO,Male,< 20,2,2,4,2,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd39da,Breena,YES,Female,41-60,5,3,2,5,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd39db,Viv,YES,Male,21-40,4,5,1,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd39dc,Moe,YES,Male,41-60,1,5,3,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd39dd,Egbert,YES,Male,< 20,1,2,3,4,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd39de,Elfrida,YES,Male,41-60,1,4,3,5,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd39df,Inglebert,YES,Female,21-40,2,5,4,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd39e0,Irene,YES,Male,> 60,2,4,4,5,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd39e1,Violante,YES,Male,< 20,3,1,2,3,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd39e2,Lamond,YES,Male,< 20,3,5,5,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39e3,Baxie,YES,Male,21-40,1,3,3,5,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd39e4,Consuelo,NO,Male,41-60,2,1,4,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd39e5,Boot,YES,Male,< 20,3,1,3,4,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39e6,Nathalie,YES,Female,21-40,5,3,5,3,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd39e7,Pris,YES,Male,< 20,4,4,2,3,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd39e8,Izak,YES,Female,21-40,4,3,5,5,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd39e9,Borden,YES,Male,41-60,2,3,5,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd39ea,Murdoch,YES,Female,21-40,5,5,4,4,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd39eb,Ainslee,YES,Male,< 20,4,4,5,4,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd39ec,Filberte,YES,Male,< 20,4,4,5,5,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd39ed,Laney,YES,Male,21-40,4,5,2,2,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd39ee,Barclay,YES,Female,21-40,4,1,2,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd39ef,Kingsley,NO,Male,41-60,2,3,5,2,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39f0,Bianka,YES,Female,21-40,4,2,5,3,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd39f1,Darda,YES,Female,< 20,5,4,5,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd39f2,Rey,YES,Male,41-60,5,4,4,1,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd39f3,Tuckie,YES,Male,21-40,5,3,3,1,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd39f4,Andra,YES,Male,< 20,3,2,5,3,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39f5,Randene,YES,Male,> 60,2,3,5,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd39f6,Monty,YES,Female,21-40,2,5,2,4,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd39f7,Reidar,YES,Male,21-40,4,3,2,2,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd39f8,Latrina,YES,Female,< 20,3,2,3,3,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd39f9,Lidia,YES,Male,< 20,5,3,5,1,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd39fa,Herculie,YES,Male,< 20,5,4,3,4,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd39fb,Alwyn,YES,Female,> 60,1,3,5,2,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd39fc,Frederic,YES,Female,< 20,3,2,3,1,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd39fd,Brennan,NO,Male,41-60,5,1,2,2,,HK,HK-NO_North
+65ddebadfc13ae1d74cd39fe,Luelle,YES,Male,< 20,1,5,2,2,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd39ff,Domenico,YES,Male,21-40,5,3,3,1,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3a00,Zita,YES,Male,21-40,4,1,5,4,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a01,Bearnard,YES,Female,21-40,1,3,2,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3a02,Pauli,YES,Female,21-40,1,1,1,4,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a03,Lona,YES,Male,21-40,2,1,1,2,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a04,Colet,NO,Male,< 20,2,1,2,1,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3a05,Siward,YES,Female,< 20,2,5,5,3,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a06,Kyrstin,YES,Female,21-40,2,5,2,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a07,Gottfried,YES,Female,21-40,5,3,1,4,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3a08,Diandra,YES,Male,< 20,3,5,4,4,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3a09,Shermy,YES,Female,< 20,4,4,1,2,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3a0a,Scotti,YES,Male,21-40,5,5,5,1,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3a0b,Arturo,YES,Male,< 20,4,4,3,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a0c,Grete,YES,Female,< 20,5,1,1,2,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a0d,Arni,YES,Male,21-40,1,5,5,2,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3a0e,Malena,YES,Male,< 20,1,5,4,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a0f,Rosamond,YES,Male,21-40,5,4,2,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a10,Jeramie,YES,Male,< 20,2,2,5,5,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3a11,Kalle,YES,Male,< 20,3,1,5,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a12,Clemmy,YES,Male,21-40,1,3,3,1,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3a13,Neville,YES,Male,21-40,2,4,1,4,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3a14,Husein,YES,Male,21-40,1,5,5,3,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a15,Margaretta,YES,Male,21-40,1,3,3,2,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3a16,Prudence,YES,Female,< 20,2,2,4,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a17,Kathryne,YES,Male,> 60,2,2,1,2,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3a18,Arvy,YES,Female,< 20,4,4,2,1,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a19,Thatcher,YES,Male,21-40,4,1,3,4,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3a1a,Brnaby,NO,Female,21-40,2,1,4,3,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a1b,Rosemaria,YES,Female,< 20,3,3,5,5,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a1c,Alic,YES,Female,> 60,4,1,1,2,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3a1d,Marlee,YES,Female,21-40,4,3,5,5,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a1e,Olivero,YES,Male,< 20,4,5,4,1,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3a1f,Arlyn,YES,Female,> 60,4,4,1,2,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a20,Joel,NO,Female,41-60,5,4,2,1,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a21,Way,YES,Male,< 20,3,4,4,3,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a22,Alberik,YES,Male,21-40,4,1,3,2,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a23,Fraser,YES,Male,< 20,2,5,4,1,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a24,Dill,NO,Male,21-40,3,5,1,3,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3a25,Chelsae,YES,Male,41-60,3,5,4,4,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a26,Ashlie,YES,Male,21-40,1,5,3,2,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a27,Flinn,YES,Female,> 60,3,3,4,1,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a28,Felicia,YES,Male,21-40,3,4,5,5,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3a29,Marty,YES,Male,< 20,5,2,5,2,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3a2a,Feodora,NO,Female,41-60,3,4,5,5,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a2b,Milzie,YES,Male,21-40,4,2,3,1,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3a2c,Anya,YES,Male,41-60,5,5,3,1,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3a2d,Denni,YES,Male,21-40,1,1,1,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a2e,Tracy,YES,Male,< 20,1,2,3,1,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a2f,Kelsey,YES,Male,< 20,5,2,2,1,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a30,Chalmers,YES,Female,< 20,2,1,1,5,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3a31,Claudine,YES,Female,21-40,1,5,5,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a32,Ceciley,YES,Male,41-60,1,5,4,2,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a33,Demetris,YES,Male,< 20,3,2,2,2,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3a34,Jessalin,YES,Female,< 20,4,4,3,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3a35,Rowan,YES,Male,41-60,4,3,2,5,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a36,Else,NO,Female,21-40,4,2,3,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3a37,Fancie,NO,Male,21-40,5,3,3,1,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a38,Doro,YES,Female,< 20,2,4,3,5,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a39,Cymbre,YES,Male,> 60,5,5,3,1,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a3a,Dorothee,NO,Male,21-40,4,1,1,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3a3b,Casey,NO,Female,< 20,2,2,1,2,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a3c,Huntley,YES,Male,< 20,3,5,4,4,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3a3d,Archie,YES,Male,21-40,2,5,4,2,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a3e,Gwendolen,YES,Female,21-40,2,4,4,3,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3a3f,Myca,YES,Male,21-40,1,1,4,2,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3a40,Bunnie,NO,Female,< 20,2,1,4,4,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3a41,Bradan,YES,Male,< 20,3,2,4,1,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3a42,Warden,YES,Female,41-60,5,5,4,4,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3a43,Giles,YES,Female,41-60,2,2,1,1,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3a44,Erina,YES,Female,< 20,4,1,3,4,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3a45,Theobald,YES,Male,< 20,2,2,5,1,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a46,Cindra,YES,Female,21-40,4,2,3,4,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a47,Trevor,YES,Female,< 20,2,4,2,5,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3a48,Drusilla,YES,Male,> 60,5,2,1,3,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a49,Carlee,YES,Male,> 60,5,2,1,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a4a,Gayelord,YES,Male,< 20,4,4,2,2,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a4b,Kandace,YES,Male,< 20,1,1,4,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a4c,Lesley,YES,Male,> 60,2,2,4,1,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a4d,Chico,NO,Male,< 20,2,1,5,1,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3a4e,Shirleen,YES,Female,21-40,4,3,4,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a4f,Lana,NO,Female,< 20,4,3,4,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3a50,Brander,YES,Female,> 60,5,2,4,2,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3a51,Conney,YES,Female,41-60,3,3,5,4,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a52,Adoree,YES,Male,< 20,5,1,1,2,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3a53,Blanca,YES,Male,21-40,5,3,2,5,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3a54,Ginni,YES,Female,< 20,3,2,3,5,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a55,Aarika,YES,Female,41-60,2,2,3,5,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a56,Richard,YES,Female,< 20,3,1,1,4,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a57,Helena,YES,Female,21-40,1,3,5,2,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a58,Cherise,YES,Male,41-60,3,1,3,3,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3a59,Rafa,YES,Female,> 60,1,3,1,2,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3a5a,Dene,YES,Female,> 60,5,5,1,4,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a5b,Katharine,YES,Male,21-40,2,1,3,5,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3a5c,Ches,YES,Male,21-40,5,4,5,5,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3a5d,Stephi,YES,Female,< 20,4,3,4,4,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3a5e,Rodrick,YES,Female,< 20,5,3,3,3,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a5f,Athene,YES,Male,< 20,1,3,3,4,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3a60,Kerr,NO,Female,41-60,3,5,1,2,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3a61,Correy,YES,Female,41-60,1,3,4,2,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a62,Hamlen,YES,Male,< 20,2,5,1,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a63,Beverly,YES,Female,41-60,3,2,3,4,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3a64,Arabela,YES,Female,21-40,3,3,5,2,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3a65,Karel,YES,Male,21-40,4,5,1,3,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a66,Michal,YES,Female,< 20,1,3,4,5,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3a67,Gery,YES,Female,41-60,4,5,3,4,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3a68,Randy,YES,Male,< 20,1,1,2,2,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3a69,Nettle,YES,Female,< 20,3,3,3,3,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a6a,Spencer,YES,Female,< 20,5,3,1,3,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a6b,Fitzgerald,YES,Male,21-40,1,2,4,5,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3a6c,Paddy,YES,Female,< 20,2,5,3,5,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3a6d,Claudie,NO,Male,< 20,5,2,2,5,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3a6e,Celisse,YES,Female,21-40,2,3,3,1,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a6f,Iormina,YES,Female,21-40,4,3,5,4,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a70,Loni,YES,Male,21-40,1,5,3,4,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a71,Emiline,YES,Male,< 20,1,3,3,4,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a72,Faye,YES,Male,< 20,4,4,4,2,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a73,Dianna,YES,Female,< 20,1,2,2,5,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3a74,Elnore,YES,Male,21-40,2,4,3,4,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3a75,Harp,YES,Female,< 20,3,3,1,2,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3a76,Oralia,YES,Female,< 20,4,5,4,3,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3a77,Kingsly,YES,Female,> 60,2,3,4,2,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3a78,Barth,YES,Female,21-40,2,2,1,1,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3a79,Reinaldos,YES,Male,< 20,5,4,1,4,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3a7a,Alvin,YES,Male,21-40,1,1,3,3,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3a7b,Tomasine,YES,Female,21-40,5,4,3,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3a7c,Leilah,YES,Female,21-40,2,3,5,5,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3a7d,Berkie,YES,Female,< 20,3,1,1,1,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3a7e,Christen,YES,Female,21-40,3,2,3,5,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3a7f,Johan,YES,Male,> 60,1,4,2,1,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a80,Jacky,YES,Male,21-40,4,1,5,3,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3a81,Helen-elizabeth,YES,Male,21-40,3,1,2,1,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a82,Anatole,YES,Female,21-40,1,4,1,2,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a83,Robena,YES,Female,21-40,3,5,1,1,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3a84,Darci,YES,Male,< 20,3,2,2,2,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3a85,Maxy,YES,Female,21-40,1,3,2,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3a86,Alon,YES,Female,< 20,5,2,4,2,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3a87,Hyman,YES,Male,< 20,3,5,1,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3a88,Berkeley,YES,Female,< 20,4,1,5,3,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3a89,Annamarie,NO,Male,21-40,1,3,1,5,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3a8a,Tye,YES,Male,41-60,1,3,1,2,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3a8b,Jedd,YES,Female,< 20,4,4,2,1,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3a8c,Myles,YES,Female,41-60,1,2,2,5,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a8d,Rodge,YES,Male,21-40,4,3,4,5,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a8e,Meir,YES,Male,< 20,3,4,5,4,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a8f,Cristabel,YES,Female,21-40,3,1,5,5,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a90,Adrea,YES,Female,< 20,5,3,3,3,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3a91,Clemence,YES,Female,21-40,5,3,4,3,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3a92,Heriberto,YES,Male,21-40,1,1,3,3,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a93,Casey,YES,Female,> 60,2,1,4,4,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a94,Benedick,YES,Female,< 20,2,4,2,3,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3a95,Bobbe,YES,Male,21-40,2,4,4,4,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3a96,Mareah,YES,Male,41-60,1,4,5,1,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3a97,Kelli,YES,Male,< 20,5,1,3,2,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3a98,Kamillah,YES,Male,21-40,4,1,1,1,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3a99,Rickard,YES,Male,< 20,1,5,4,3,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3a9a,Dun,YES,Male,< 20,3,5,4,3,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3a9b,Abra,YES,Female,< 20,3,1,5,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3a9c,Lynnelle,YES,Male,< 20,1,2,4,2,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3a9d,Galven,YES,Male,21-40,2,1,5,5,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3a9e,Nellie,YES,Male,21-40,1,1,2,2,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3a9f,Mindy,YES,Female,21-40,1,2,4,1,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3aa0,Kort,YES,Female,< 20,5,1,1,3,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3aa1,Collette,YES,Male,< 20,2,3,3,2,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3aa2,Ramon,YES,Female,21-40,1,4,3,3,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3aa3,Rosita,YES,Male,21-40,1,2,5,3,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3aa4,Lenci,YES,Female,21-40,3,2,3,2,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3aa5,Adair,YES,Female,< 20,2,2,4,2,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3aa6,Pincus,NO,Male,21-40,4,4,4,1,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3aa7,Rebeka,YES,Male,41-60,5,3,4,5,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3aa8,Andrus,YES,Male,< 20,5,1,5,1,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3aa9,Giraud,YES,Female,< 20,2,5,1,3,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3aaa,Joly,NO,Male,21-40,1,1,5,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3aab,Oswell,NO,Female,< 20,4,1,3,3,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3aac,Mohandis,YES,Male,< 20,1,3,1,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3aad,Phylys,YES,Female,> 60,1,3,1,1,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3aae,Gustie,YES,Female,21-40,1,3,2,2,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3aaf,Victoir,YES,Male,< 20,1,1,2,4,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3ab0,Benn,YES,Female,21-40,1,1,5,3,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3ab1,Faith,YES,Male,< 20,5,1,5,1,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3ab2,Smitty,YES,Female,< 20,2,4,2,4,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3ab3,Nikola,YES,Female,41-60,5,3,4,1,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3ab4,Alta,YES,Male,< 20,1,4,4,5,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3ab5,Sherline,YES,Female,21-40,4,5,4,1,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3ab6,Cornela,YES,Female,< 20,2,2,3,5,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3ab7,Morry,YES,Male,< 20,3,3,5,2,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3ab8,Anabel,YES,Male,< 20,5,1,3,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3ab9,Konstance,YES,Male,< 20,3,1,4,2,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3aba,Chrissie,YES,Male,< 20,4,5,4,3,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3abb,Delbert,YES,Female,21-40,5,4,4,2,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3abc,Christy,YES,Male,21-40,2,5,3,5,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3abd,Sharity,YES,Female,< 20,2,2,5,3,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3abe,Brockie,YES,Female,> 60,4,3,1,5,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3abf,Valentin,YES,Male,41-60,4,5,3,1,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3ac0,Brande,YES,Male,21-40,4,5,3,3,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3ac1,Nesta,YES,Female,< 20,3,5,2,4,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3ac2,Urson,YES,Male,< 20,3,4,3,4,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3ac3,Brana,YES,Male,21-40,3,1,3,2,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3ac4,Betty,YES,Female,> 60,5,4,3,4,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3ac5,Virge,YES,Female,21-40,5,1,2,3,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3ac6,Randell,YES,Male,> 60,2,4,3,2,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3ac7,Laurel,YES,Female,< 20,3,2,1,1,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3ac8,Hadlee,YES,Male,< 20,4,1,2,2,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3ac9,Bidget,YES,Female,21-40,3,2,2,5,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3aca,Lillis,YES,Female,21-40,1,3,5,3,,HK,HK-EA_Eastern
+65ddebadfc13ae1d74cd3acb,Rosabelle,YES,Male,21-40,1,4,1,5,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3acc,Martyn,NO,Male,< 20,5,2,2,1,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3acd,Matthieu,NO,Male,21-40,2,2,3,4,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3ace,Glenn,YES,Female,< 20,1,1,5,1,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3acf,Rosamund,YES,Female,21-40,2,3,1,5,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3ad0,Ardyce,YES,Female,21-40,2,4,2,1,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3ad1,Bordie,YES,Female,< 20,2,4,5,5,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3ad2,Kylie,NO,Female,< 20,5,3,5,5,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3ad3,Hagen,YES,Male,21-40,4,4,3,5,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3ad4,Welby,YES,Female,21-40,5,4,3,4,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3ad5,Fidela,NO,Male,21-40,4,1,2,5,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3ad6,Isidore,YES,Female,> 60,2,5,2,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3ad7,Letti,NO,Female,< 20,2,1,5,3,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3ad8,Ramsey,YES,Female,21-40,1,2,4,5,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3ad9,Felicdad,YES,Male,21-40,3,1,2,4,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3ada,Lilllie,YES,Male,< 20,3,5,1,2,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3adb,Oren,YES,Female,< 20,3,1,2,2,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3adc,Tyne,YES,Male,21-40,4,4,2,1,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3add,Devin,YES,Female,< 20,4,4,3,2,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3ade,Brent,YES,Male,41-60,3,4,2,4,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3adf,Kinnie,YES,Female,< 20,5,5,3,4,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3ae0,Parrnell,YES,Female,41-60,3,2,1,3,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3ae1,Flemming,YES,Female,21-40,1,2,1,5,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3ae2,Chevalier,YES,Male,< 20,2,3,2,5,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3ae3,Devondra,YES,Female,41-60,3,2,3,3,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3ae4,Araldo,YES,Male,41-60,1,4,4,1,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3ae5,Faustine,YES,Female,21-40,1,2,4,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3ae6,Chrissie,YES,Female,< 20,3,4,2,3,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3ae7,Sara,YES,Female,21-40,1,3,4,2,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3ae8,Deedee,YES,Female,21-40,3,2,1,2,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3ae9,Zak,YES,Male,21-40,1,3,5,3,,HK,HK-NO_North
+65ddebadfc13ae1d74cd3aea,Lorene,YES,Female,< 20,1,5,2,3,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3aeb,Hamid,YES,Male,41-60,2,2,3,4,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3aec,Paxton,YES,Female,41-60,2,1,3,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3aed,Bryant,YES,Female,< 20,4,1,1,2,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3aee,Sabrina,NO,Female,21-40,4,3,2,4,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3aef,Claudius,YES,Male,41-60,2,1,2,3,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3af0,Romain,YES,Male,< 20,3,3,5,3,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3af1,Rosalinda,YES,Male,41-60,2,4,1,3,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3af2,Cozmo,NO,Female,21-40,3,1,5,2,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3af3,Helge,YES,Male,21-40,4,5,4,2,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3af4,Svend,YES,Male,< 20,3,2,4,3,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3af5,Odetta,YES,Male,< 20,1,4,2,2,,NT,HK-TM_Tusen Mun
+65ddebadfc13ae1d74cd3af6,Starlene,NO,Male,< 20,1,3,5,4,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3af7,Naoma,YES,Female,< 20,5,4,1,4,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3af8,Agatha,YES,Male,41-60,4,3,4,4,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3af9,Callie,YES,Male,< 20,2,3,1,4,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3afa,Milo,YES,Female,21-40,2,3,2,3,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3afb,Ediva,YES,Male,< 20,4,3,2,1,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3afc,Fons,YES,Female,< 20,5,3,3,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3afd,Geri,YES,Female,21-40,4,2,5,5,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3afe,Upton,NO,Female,21-40,2,5,1,5,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3aff,Tam,YES,Female,< 20,3,3,4,4,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3b00,Natalya,YES,Female,< 20,1,4,1,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3b01,Jodi,YES,Female,21-40,5,2,4,3,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3b02,Stefanie,YES,Female,41-60,3,3,4,4,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3b03,Eilis,YES,Female,> 60,3,1,2,4,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3b04,Sandy,YES,Female,< 20,3,1,4,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3b05,Tandie,YES,Female,41-60,1,4,1,4,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3b06,Robbin,YES,Male,21-40,4,2,3,4,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3b07,Thorny,YES,Female,< 20,4,3,5,5,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3b08,Joleen,YES,Female,41-60,5,2,1,1,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3b09,Dorine,YES,Female,< 20,3,2,1,3,,NT,HK-TW_Tsun Wan
+65ddebadfc13ae1d74cd3b0a,Angelita,YES,Female,41-60,5,5,5,3,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3b0b,Monti,NO,Male,< 20,2,2,4,4,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3b0c,Oran,YES,Male,21-40,1,2,1,1,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3b0d,Kiersten,YES,Female,21-40,2,1,3,4,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3b0e,Dwight,YES,Female,41-60,1,5,2,2,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3b0f,Sherrie,YES,Male,< 20,2,5,2,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3b10,Elaine,YES,Female,21-40,4,3,4,2,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3b11,Onida,NO,Female,< 20,1,1,4,4,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3b12,Reina,YES,Female,< 20,3,2,5,4,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3b13,Shalna,YES,Male,21-40,1,5,5,3,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3b14,Janene,YES,Female,21-40,4,2,5,3,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3b15,Shermy,YES,Female,< 20,1,5,2,2,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3b16,Jamima,YES,Male,< 20,2,1,2,2,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3b17,Rosalinda,YES,Female,41-60,4,2,2,2,,KLN,HK-KU_Kwun Tong
+65ddebadfc13ae1d74cd3b18,Giovanna,YES,Male,< 20,1,2,2,4,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3b19,Granny,YES,Female,< 20,5,4,2,5,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3b1a,Kaylil,YES,Female,> 60,5,1,5,1,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3b1b,Brianne,YES,Female,> 60,2,4,3,4,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3b1c,Tami,YES,Male,21-40,3,4,3,5,,NT,HK-YL_Yuen Long
+65ddebadfc13ae1d74cd3b1d,Terry,YES,Female,< 20,5,1,1,4,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3b1e,Benton,YES,Female,< 20,2,1,5,2,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3b1f,Scarface,YES,Male,< 20,5,1,2,5,,NT,HK-ST_Sha Tin
+65ddebadfc13ae1d74cd3b20,Onfroi,YES,Female,21-40,1,4,1,4,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3b21,Carma,NO,Male,< 20,5,5,3,5,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3b22,Reidar,YES,Male,21-40,2,2,5,2,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3b23,Heidi,YES,Male,41-60,2,4,1,4,,HK,HK-SO_Southern
+65ddebadfc13ae1d74cd3b24,Meridel,YES,Female,< 20,5,2,3,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3b25,Wallace,NO,Female,< 20,5,5,1,3,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3b26,Clerc,NO,Male,> 60,1,4,2,3,,HK,HK-CW_Central and Western
+65ddebadfc13ae1d74cd3b27,Carmina,YES,Female,41-60,3,5,5,2,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3b28,Tamma,YES,Female,41-60,1,4,5,4,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3b29,Weider,YES,Female,< 20,1,4,5,2,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3b2a,Ricard,YES,Male,21-40,2,3,5,3,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3b2b,Rubetta,YES,Male,21-40,1,4,3,2,,NT,HK-IS_Island
+65ddebadfc13ae1d74cd3b2c,Antonella,YES,Female,> 60,4,1,1,1,,KLN,HK-WT_Wong Tai Sin
+65ddebadfc13ae1d74cd3b2d,Linette,YES,Male,21-40,1,2,5,4,,KLN,HK-YT_Yau Tsim Mong
+65ddebadfc13ae1d74cd3b2e,Lauryn,YES,Female,21-40,5,3,1,1,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3b2f,Jamaal,YES,Male,> 60,1,4,3,2,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3b30,Aleta,YES,Female,< 20,4,3,2,3,,KLN,HK-KC_Kowloon City
+65ddebadfc13ae1d74cd3b31,Benedicto,YES,Female,21-40,5,5,1,5,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3b32,Cordelie,YES,Male,41-60,5,2,4,3,,HK,HK-WC_Wan Chai
+65ddebadfc13ae1d74cd3b33,Robin,YES,Female,< 20,4,4,5,3,,NT,HK-SK_Sai Kung
+65ddebadfc13ae1d74cd3b34,Sharleen,YES,Male,< 20,1,3,3,5,,NT,HK-TP_Tai Po
+65ddebadfc13ae1d74cd3b35,Lev,YES,Male,41-60,1,5,5,5,,HK,HK-KI_Kwai Tsing
+65ddebadfc13ae1d74cd3b36,Josefina,YES,Female,41-60,1,1,3,3,,KLN,HK-SS_Sham Shui Po
+65ddebadfc13ae1d74cd3b37,Rasla,YES,Male,< 20,2,1,3,1,,HK,HK-EA_Eastern

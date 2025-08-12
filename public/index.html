@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Movie Review - The Moon Thieves</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <div class="container align-items-center justify-content-center"
+        style="background-image: url('../images/border2.jpg'); background-repeat: no-repeat; padding-left: 5vh; padding-top:5%; background-position: 90% 0%; background-size:60%; opacity: 0.7;">
+        <form action="/review" class="col-12" method="post" style="display: inline-block;">
+            <h1>Movie Review</h1>
+            <h2>The Moon Thieves</h2>
+            <br>
+            <div class="row mb-3">
+                <div class="col-3">
+                    <label for="inputName" class="col-sm-10 col-form-label">My name is</label>
+                </div>
+                <div class="col-5">
+                    <input class="form-control" id="inputName" name="MyName" required>
+                </div>
+            </div>
+
+            <script>
+
+
+                function AddRadio(title, title_text, arrVal) {
+
+                    var inputtext = '';
+
+                    inputtext = `<div class="row mb-3">
+                <div class="col-3" id="t_${title}">
+                <legend class="col-form-label pt-0">${title_text}</legend>
+                </div>
+                <div class="col-sm-6">`;
+
+                    for (var i of arrVal) {
+                        inputtext += `<div class="form-check form-check-inline">
+                  <input class="form-check-input" type="radio" name="${title}" id="gridRadios1" value="${i}" required>
+                  <label class="form-check-label" for="gridRadios${i}">
+                      ${i}
+                  </label>
+                </div>`;
+                    }
+                    inputtext += `</div></div>`;
+
+                    document.write(inputtext);
+
+                }
+            </script>
+            <div class="row mb-3">
+                <label for="Q2_word" class="col-12 col-form-label">Do you like The Moon Thieves?</label>
+                
+            </div>
+            
+            <script>
+                AddRadio('LikeMovie', 'test', ['YES', 'NO']);
+
+                document.getElementById("t_LikeMovie").innerHTML = `<img src="../images/heart.png" alt="Like" style="width:20px; height:20px">`;
+                AddRadio('Gender', 'Gender', ['Male', 'Female']);
+                AddRadio('Age', 'Age', ['< 20', '21-40', '41-60', '> 60']);
+
+                var inputtext = "<div class='row mb-3'><div class='col-form-label'>Please rate the following asepcts (5: most appreciated, 1: least satisfied)</div></div>";
+                document.write(inputtext);
+                AddRadio('Story', 'Story', [5, 4, 3, 2, 1]);
+                AddRadio('Entertainment', 'Entertainment', [5, 4, 3, 2, 1]);
+                AddRadio('Effect', 'Movie Effect', [5, 4, 3, 2, 1]);
+                AddRadio('Cast', 'Cast', [5, 4, 3, 2, 1]);
+
+            </script>
+
+
+            <div class="row mb-3">
+                <label for="Q2_word" class="col-3 col-form-label">Use ONE word/sentence to describe this movie:</label>
+                <div class="col-5">
+                    <input type="text" class="form-control" name="Q2_word" required>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-form-label col-3 pt-0">I watch in...</label>
+                <div class="col-5">
+                    <select class="form-select" aria-label="Default select example" id="district1" name="district1"
+                        onchange="DistrictSelected(this.value)" required>
+                        <option value="" selected>Open this select menu</option>
+                        <option value="HK">Hong Kong</option>
+                        <option value="KLN">Kowloon</option>
+                        <option value="NT">New Territories</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label class="col-form-label col-3 pt-0">Cinema</label>
+                <div class="col-5">
+                    <select class="form-select" aria-label="Default select example" id="district2" name="district2"
+                        disabled required>
+                    </select>
+                </div>
+            </div>
+
+
+            </fieldset>
+            <br>
+            <button type="submit" class="btn btn-success col-2 btn-lg float-right ">Submit</button>
+
+        </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+
+    <script>
+        const HK = ['HK-KI_Kwai Tsing', 'HK-NO_North', 'HK-EA_Eastern', 'HK-CW_Central and Western', 'HK-SO_Southern', 'HK-WC_Wan Chai'];
+        const KLN = ['HK-WT_Wong Tai Sin', 'HK-SS_Sham Shui Po', 'HK-KU_Kwun Tong', 'HK-KC_Kowloon City', 'HK-YT_Yau Tsim Mong'];
+        const NT = ['HK-YL_Yuen Long', 'HK-TW_Tsun Wan', 'HK-TP_Tai Po', 'HK-TM_Tusen Mun', 'HK-ST_Sha Tin', 'HK-IS_Island', 'HK-SK_Sai Kung'];
+
+        function DistrictSelected(district_sec) {
+            var district2 = document.getElementById("district2");
+            district2.options.length = 0;
+
+            if (district_sec == "HK") {
+
+                for (var dis of HK) {
+                    var option = document.createElement("option");
+                    option.text = dis.substring(6, dis.length);
+                    option.value = dis;
+                    district2.add(option);
+                }
+
+                district2.disabled = false;
+
+            } else if (district_sec == "KLN") {
+
+                for (var dis of KLN) {
+                    var option = document.createElement("option");
+                    option.text = dis.substring(6, dis.length);
+                    option.value = dis;
+                    district2.add(option);
+                }
+                district2.disabled = false;
+            } else if (district_sec == "NT") {
+
+                for (var dis of NT) {
+                    var option = document.createElement("option");
+                    option.text = dis.substring(6, dis.length);
+                    option.value = dis;
+                    district2.add(option);
+
+                } district2.disabled = false;
+            } else {
+                district2.disabled = true;
+
+            }
+        }
+
+
+
+    </script>
+</body>
+
+</html>

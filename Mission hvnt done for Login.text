@@ -1,0 +1,63 @@
+
+***Successful implementation of token-based authentication***
+
+
+Managing Bookings by Users
+
+To manage bookings by a user (staff member), the following new route is added in **bookings.js**:
+
+var passport = require('passport');
+
+// Specify booking being managed by a user
+router.patch('/:id/manage', passport.authenticate('bearer', { session: false }), async function (req, res) {
+    const db = await connectToDB();
+    try {
+        let result = await db.collection("bookings").updateOne({ _id: new ObjectId(req.params.id) },
+            {
+                $set: { manager: new ObjectId(req.user._id) }
+            });
+
+        if (result.modifiedCount > 0) {
+            res.status(200).json({ message: "Booking updated" });
+        } else {
+            res.status(404).json({ message: "Booking not found" });
+        }
+    } catch (err) {
+        res.status(400).json({ message: err.message });
+    }
+    finally {
+        await db.client.close();
+    }
+});
+
+***Proficiency in implementing CRUD operations on at least two collections, with the use of lookup functionality***
+
+Retrieving Users and Their Bookings
+
+To retrieve all users and their bookings, provide the /with/bookings route in users.js as follows:
+
+const { connectToDB, ObjectId } = require('../utils/db');
+
+router.get('/with/bookings', async function (req, res) {
+  const db = await connectToDB();
+  try {
+    let result = await db.collection("users").aggregate([
+      {
+        $lookup: {
+          from: "bookings",
+          localField: "_id",
+          foreignField: "manager",
+          as: "bookings"
+        }
+      },
+      // remove the ip_address field
+      { $project: { ip_address: 0 } }
+    ]).toArray();
+    res.json(result);
+  } catch (err) {
+    res.status(400).json({ message: err.message });
+  }
+  finally {
+    await db.client.close();
+  }
+});
