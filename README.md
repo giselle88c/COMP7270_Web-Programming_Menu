@@ -8,12 +8,12 @@ This project is a **Restaurant Menu Application**, built using **Vue 3** and **V
 - 
 ## Features
 - **Daily food suggestion (calendar)** 
-- **Add food to shopping cart and bill**
-- **Add/Edit/Delete Order and Bill**
 - **MongoDB: Connecting and Querying**
+- **MongoDB: Add food to shopping cart and bill**
+- **MongoDB: Add/Edit/Delete Order and Bill**
 - **Authentication and token**
 - **Report (apexchart & bootstrap)**
-- **Azure Sentiment Analysis**
+- **Azure Sentiment Analysis and scoring**
 
 ## Technologies Used
 - **Vue** 
