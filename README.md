@@ -3,8 +3,8 @@
 This project is a **Restaurant Menu Application**, built using **Vue 3** and **Vite**. The application features a frontend for displaying and managing restaurant menu items.
 
 ## Branches
-- **Frontend:** `main`
-- **Backend:** `master`
+- **Frontend:** 
+- **Backend:** 
 
 ## Technologies Used
 - **Vue:** 
