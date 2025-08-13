@@ -1,6 +1,8 @@
 const { MongoClient, ObjectId } = require('mongodb');
 
-process.env.MONGODB_URI = 'mongodb://gisellec88:nV6m06Due8NVT6vT615wFsmHTOCCJjiwrXBhLiMtT55aLe4PomdLeSq32okvMLIKyNn4fU1t5UL6ACDbtixNBw%3D%3D@gisellec88.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&maxIdleTimeMS=120000&appName=@gisellec88@';
+process.env.MONGODB_URI = 'mongodb+srv://cotton00:onpkmFvAzzbm7B4R@cluster0.aqsxzru.mongodb.net/';
+//process.env.MONGODB_URI = 'mongodb://gisellec88:nV6m06Due8NVT6vT615wFsmHTOCCJjiwrXBhLiMtT55aLe4PomdLeSq32okvMLIKyNn4fU1t5UL6ACDbtixNBw%3D%3D@gisellec88.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&maxIdleTimeMS=120000&appName=@gisellec88@';
+
 
 if (!process.env.MONGODB_URI) {
     // throw new Error('Please define the MONGODB_URI environment variable inside .env.local');

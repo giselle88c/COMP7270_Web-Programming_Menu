@@ -155,7 +155,8 @@ router.get('/surveyStat/', async function (req, res) {
 
       );
 
-      pipelines.push({ $match: { "DateTime": { $gte: Date(thisYear + "-" + thisMonth + "-01T00:00:00.000Z") } } });
+      //pipelines.push({ $match: { "DateTime": { $gte: Date(thisYear + "-" + thisMonth + "-01T00:00:00.000Z") } } });
+   
 
       pipelines.push({
         $group: {
